@@ -19,7 +19,7 @@
 </p>
 
 <div style="display:inline-block; padding:3px; border-radius:12px; background: linear-gradient(45deg, #ff00cc, #3333ff);">
-  <img src="https://i.imgur.com/QM1Hkbh.jpeg" alt="banner" style="display:block; border-radius:10px;">
+  <img src="https://i.imgur.com/mycLJfy.png" alt="banner" style="display:block; border-radius:10px;">
 </div>
 
 
