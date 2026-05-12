@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "𝐌𝐎𝐒𝐓𝐀𝐊𝐈𝐌 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓",
+  "nickNameBot": "[  /  ] - 𝗠𝗜𝗭𝗔𝗡 𝗚𝗢𝗔𝗧 𝗕𝗢𝗧",
   "prefix": "*",
   "noPrefix": true,
   "noPrefixNotes": "When true, Bot Admins (role 2) and Developers (role 4) can run commands without the prefix",
@@ -44,20 +44,20 @@
     ]
   },
   "adminBot": [
-    "100058112936375"
+    "100058112936375", "100037417220583"
   ],
   "premiumUsers": [
-    "100058112936375"
+    "100037417220583"
   ],
   "devUsers": [
-    "100058112936375"
+    "100037417220583"
   ],
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100058112936375"
+      "100037417220583"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
