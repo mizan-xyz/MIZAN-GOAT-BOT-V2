@@ -33,6 +33,6 @@
     }
   },
   "commandUnload": [
-    "alldl.js"
+    "xyz.js"
   ]
 }
